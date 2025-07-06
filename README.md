@@ -2,6 +2,10 @@
 
 A modern, fast, and responsive currency converter web app built with React, Vite, and Tailwind CSS. Instantly convert between currencies using live exchange rates.
 
+👉 **Live App:**
+🔗 https://currency-convertor-seven-vert.vercel.app
+
+
 ---
 
 ## 🚀 Features
