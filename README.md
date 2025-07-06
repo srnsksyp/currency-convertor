@@ -5,7 +5,6 @@ A modern, fast, and responsive currency converter web app built with React, Vite
 👉 **Live App:**
 🔗 https://currency-convertor-seven-vert.vercel.app
 
-
 ---
 
 ## 🚀 Features
